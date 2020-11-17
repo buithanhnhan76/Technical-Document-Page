@@ -1,0 +1,21 @@
+h1{
+    margin-left: 15px;
+}
+p{
+    margin-left: 40px;
+    line-height: 1.4em;
+}
+ul{
+    line-height: 1.8em;
+    margin-left: 80px;
+
+}
+code{
+    margin-left: 30px;
+}
+.div_code{
+    margin-left: 90px;
+    margin-right: 190px; /* make a class for a div that contain code */
+    padding: 15px 0;
+    background-color: rgba(197, 203, 212,1);
+}
